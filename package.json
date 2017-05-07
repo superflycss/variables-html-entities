@@ -1,0 +1,26 @@
+{
+  "name": "@superflycss/variables-html-entities",
+  "version": "1.0.0",
+  "description": "CSS HTML Entity Variables",
+  "main": "src/main/css/index.css",
+  "scripts": {
+    "build": "node src/main/js/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superflycss/variables-html-entities.git"
+  },
+  "keywords": [
+    "CSS",
+    "superflycss",
+    "variables",
+    "html",
+    "entities"
+  ],
+  "author": "Ole Ersoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superflycss/variables-html-entities/issues"
+  },
+  "homepage": "https://github.com/superflycss/variables-html-entities#readme"
+}
